@@ -112,15 +112,15 @@ A fun browser-based shooting game with enemies, weapons, health, scoring and int
 
 <td width="50%">
 
-### 🚗 Car Racing Game
+### grade
 
-A responsive 2D racing game featuring multiple lanes, enemy cars, scoring and increasing difficulty.
+⚡ Features smooth gameplay, responsive controls, scoring, and engaging visuals.
 
 **Tech Stack**
 
 `HTML` `CSS` `JavaScript`
 
-🔗 [View Project](https://github.com/YOUR_USERNAME/YOUR_REPO)
+🔗 [View Project](https://github.com/vinayyadav-01/Grade)
 
 </td>
 </tr>
