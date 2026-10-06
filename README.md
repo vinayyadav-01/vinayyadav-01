@@ -120,7 +120,7 @@ A fun browser-based shooting game with enemies, weapons, health, scoring and int
 
 `HTML` `CSS` `JavaScript`
 
-🔗 [View Project](https://github.com/vinayyadav-01/Grade)
+🔗 [View Project](https://github.com/vinayyadav-01/Grade) 🔗 [🌐 Live Demo](https://your-username.github.io/your-repository/)
 
 </td>
 </tr>
